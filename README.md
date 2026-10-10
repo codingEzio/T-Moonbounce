@@ -1,5 +1,7 @@
 # Moonbounce
 
+**English** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md)
+
 A tiny native macOS arcade racer. Chase three rivals through an endless pixel road trip, with one-kilometer sprints and an offline lo-fi radio.
 
 ![Moonbounce: pixel racing on the coast](docs/moonbounce.webp)
@@ -69,15 +71,3 @@ Native checks require a graphical macOS session. Ordinary tests do not open wind
 Project code and original generated game art are offered under [MIT](LICENSE), to the extent applicable rights exist. The screenshot is an actual app capture, stored as lossless, metadata-free WebP.
 
 Bundled music is **CC0**. The modified font and its component notices retain their own licenses; they are not relicensed under MIT. Dependency notices, provenance and image-generation prompts are included. See [dependencies and assets](DEPENDENCIES.md), [font notices](assets/fonts/NOTICE.md) and [art prompts](assets/PROMPTS.md).
-
-## 简体中文
-
-Moonbounce 是一款原生 macOS 像素赛车游戏：每公里一场竞速，三位对手，16 条开放路线，四种驾驶手感和离线 lo-fi 电台。跟车、漂移与超车积累加速能量；草地和碰撞影响速度，不会清空行程。
-
-运行 `./run`，或用 `./package` 构建应用。方向键驾驶，Shift 漂移，空格加速，Esc 暂停，C 切换巡航。暂停菜单提供路线与设置。支持简体中文、繁体中文、英文，以及像素/系统字体和浅色/深色主题。无需账号，没有遥测；数据保存在本机。代码和原创生成美术使用 MIT，音乐与字体保留各自授权。
-
-## 繁體中文
-
-Moonbounce 是一款原生 macOS 像素賽車遊戲：每公里一場競速，三位對手，16 條開放路線，四種駕駛手感與離線 lo-fi 電台。跟車、漂移與超車累積加速能量；草地與碰撞影響速度，不會清空行程。
-
-執行 `./run`，或用 `./package` 建置應用程式。方向鍵駕駛，Shift 漂移，空白鍵加速，Esc 暫停，C 切換巡航。暫停選單提供路線與設定。支援簡體中文、繁體中文、英文，以及像素/系統字體與淺色/深色主題。無需帳號，沒有遙測；資料儲存在本機。程式碼與原創生成美術使用 MIT，音樂與字體保留各自授權。
