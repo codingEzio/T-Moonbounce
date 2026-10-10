@@ -1,0 +1,16 @@
+{
+  "version": "0.4.1",
+  "source": "Native Moonbounce window capture; isolated synthetic state; audio output muted",
+  "dimensions": [
+    2360,
+    1496
+  ],
+  "format": "WebP lossless",
+  "metadata": "none",
+  "sourcePNGBytes": 369074,
+  "webPBytes": 255160,
+  "reductionPercent": 30.9,
+  "sha256": "96aeb659a359b44ec345850aa2ad6af0efe267a1decda25b0ab28e05ab73e1b4",
+  "captureCommand": "./run --mute-output --state .local/screenshot.json --benchmark 2s --capture .local/screenshot.png",
+  "compressionCommand": "cwebp -lossless -m 6 -metadata none .local/screenshot.png -o docs/moonbounce.webp"
+}

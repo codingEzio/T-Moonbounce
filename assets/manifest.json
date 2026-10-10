@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-10",
+  "generatedArtwork": "assets/PROMPTS.md",
+  "musicProvenance": "assets/audio/CREDITS.md",
+  "assets": [
+    {
+      "path": "assets/car.png",
+      "bytes": 1049523,
+      "sha256": "79fb8388f8b6c89e0373f5ece25bd7b83aeaed80f63725fe6f34b3cfe224ea85"
+    },
+    {
+      "path": "assets/hatchback-sheet.png",
+      "bytes": 1492179,
+      "sha256": "44a1fd3af37f00b92456f94a4880bb4009692e5f280c7c0fd1ba818133d219d4"
+    },
+    {
+      "path": "assets/horizon-sheet.png",
+      "bytes": 1803925,
+      "sha256": "f1ecbbf16a35a3a90e970c0df94175fb27b99a1549bee7cfd98d8c3aff0703b4"
+    },
+    {
+      "path": "assets/roadside-sheet.png",
+      "bytes": 1599882,
+      "sha256": "426b06fc41fdf6432fcd6b1978789c9c13497b677a35615a0ceb83dd73a5674a"
+    },
+    {
+      "path": "assets/audio/first-snow.mp3",
+      "bytes": 6965965,
+      "sha256": "855a35d81441ec653ceb36b44dbdbd1f750b62a2b530d8ccf2f03172349f6ee8"
+    },
+    {
+      "path": "assets/audio/keeping-cool.mp3",
+      "bytes": 6126925,
+      "sha256": "229c07722dad8ecbdd82a683c5fe7f691cf07fe3d109df9d870d9b09b4a6784b"
+    },
+    {
+      "path": "assets/audio/windows-down.mp3",
+      "bytes": 6632845,
+      "sha256": "54dc5dfb84c8ea71fa16866c4ad14d10ae4063e68d03f0f284156826ad882fac"
+    }
+  ]
+}

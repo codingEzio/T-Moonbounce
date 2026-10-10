@@ -1,0 +1,18 @@
+.local/
+Local/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.app/
+*.dmg
+*.zip
+*.pprof
+# Private development records are retained locally, never published.
+TASKS.md
+ERRORLOG.txt
+verification/

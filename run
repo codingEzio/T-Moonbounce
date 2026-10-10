@@ -1,0 +1,6 @@
+#!/bin/zsh
+set -euo pipefail
+cd "${0:A:h}"
+mkdir -p .local
+CGO_ENABLED=0 GOMAXPROCS=4 go build -trimpath -o .local/Moonbounce .
+exec .local/Moonbounce --state "$PWD/Local/settings.json" "$@"
