@@ -13,8 +13,8 @@
 需要 **macOS 14+** 和 **Go 1.27.1+**。已在 Apple Silicon 上验证；本项目不支持其他平台。
 
 ```sh
-git clone https://github.com/codingEzio/T-Moonbounce.git
-cd T-Moonbounce
+git clone https://github.com/codingEzio/T-Moonbounce.git M-Moonbounce
+cd M-Moonbounce
 ./run
 ```
 

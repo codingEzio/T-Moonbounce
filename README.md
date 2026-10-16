@@ -13,8 +13,8 @@ A tiny native macOS arcade racer. Chase three rivals through an endless pixel ro
 Requires **macOS 14+** and **Go 1.27.1+**. Apple Silicon is verified; other platforms are not supported by this project.
 
 ```sh
-git clone https://github.com/codingEzio/T-Moonbounce.git
-cd T-Moonbounce
+git clone https://github.com/codingEzio/T-Moonbounce.git M-Moonbounce
+cd M-Moonbounce
 ./run
 ```
 
